@@ -1,0 +1,16 @@
+{
+ "cities": [
+  {
+   "id": "distritotec",
+   "name": "Distrito Tec, Monterrey"
+  },
+  {
+   "id": "valleoriente",
+   "name": "Valle Oriente, San Pedro Garza Garcia, Mexico"
+  },
+  {
+   "id": "campolospinos",
+   "name": "Campo los Pinos, Monterrey, Mexico"
+  }
+ ]
+}
